@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketManager", "MarketManager\MarketManager.csproj", "{1E0785DA-4845-43FA-B9F8-D93B4DB2556D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLHelper", "..\..\Console Project\DataLib\SQLHelper\SQLHelper.csproj", "{E156647D-7F7E-4ADF-B7CC-80743B900A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E0785DA-4845-43FA-B9F8-D93B4DB2556D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0785DA-4845-43FA-B9F8-D93B4DB2556D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0785DA-4845-43FA-B9F8-D93B4DB2556D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0785DA-4845-43FA-B9F8-D93B4DB2556D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E156647D-7F7E-4ADF-B7CC-80743B900A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E156647D-7F7E-4ADF-B7CC-80743B900A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E156647D-7F7E-4ADF-B7CC-80743B900A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E156647D-7F7E-4ADF-B7CC-80743B900A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27660F49-102C-4D1C-8D43-2BF85EA422BE}
+	EndGlobalSection
+EndGlobal
